@@ -1,6 +1,6 @@
 # quem-sou-eu
 # 💫 About Me:
-Olá! Sou o Thiago e trabalho com programação de torno CNC há mais de uma década, mas pretendo migrar para a área de desenvolvimento web. Estava há procura de algo para aprender no tempo livre, além do inglês, e me interessei por  gostei muito. Estou aprendendo html, css e java script. Pretendo fazer vários cursos da área.
+Olá! Sou o Thiago e trabalho com programação de torno CNC há mais de uma década. No momento estou aprendendo html, css e java script, mas pretendo fazer vários cursos da área de programação para poder migrar de profissão.
 
 
 # 💻 Tech Stack:
